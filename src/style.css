@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  margin: 5rem;
+  margin-right: 5rem;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+  box-shadow: 10px 10px 8px #888;
+}
+
+input,
+button {
+  border: none;
+  background: none;
+}
+
+h1 {
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+
+#task-form {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#task-input {
+  background-color: whitesmoke;
+  padding: 1rem;
+}
+
+.task {
+  padding-right: 1rem;
+  padding-left: 1rem;
+  background-color: rgba(208, 209, 209, 0.425);
+}
+
+.text {
+  padding: 1rem;
+}
+
+div.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgray;
+  height: 65px;
+}
+
+.eachtask {
+  display: flex;
+  align-items: center;
+}
+
+div.text {
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  margin: 1rem;
+}
+
+.btn-right {
+  background-image: url('./img/icons8-trash-24.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+}
+
+.delete-btn {
+  display: flex;
+  justify-content: center;
+  background-color: lightgray;
+  margin-top: 1rem;
+}
+
+button#delete {
+  width: 400px;
+  height: 46px;
+}
+
+.mark {
+  color: gray;
+  text-decoration: line-through;
+}

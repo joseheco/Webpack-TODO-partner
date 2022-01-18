@@ -1,59 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# ToDo List
 
-> One paragraph statement about the project.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/nmw6wWK/todo-list.png" alt="todo-list" border="0"></a>
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6JTYGXv/2022-01-14-17-52-10-localhost-a29a72b1388e.jpg" alt="second-img" border="0"></a>
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
-## Live Demo
+# Live Demo TODO-List
 
-[Live Demo Link](https://livedemo.com)
+[Github-Pages](https://joseheco.github.io/Webpack-TODO-List/dist/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This is the first advance of the ToDo list project, which has 3 parts, in this last part we are putting together all the functions in different modules and their applications all tog and using webpack.
 
+## Setup
 
-To get a local copy up and running follow these simple example steps.
+In case you want to have the project locally, perform the following steps:
 
-### Prerequisites
+- git clone of the project [Project](git@github.com:joseheco/Webpack-TODO-List.git)
+- npm installed ( dependencies (npm install dev))
+- npm run dev
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+The page will now automatically open in your browser.
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@joseheco](https://github.com/joseheco)
+- Twitter: [@joseheco](https://twitter.com/joseheco)
+- LinkedIn: [JoseHerreraCo](https://linkedin.com/in/joseherreraco)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -65,12 +51,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
+#License
 
 This project is [MIT](./MIT.md) licensed.
